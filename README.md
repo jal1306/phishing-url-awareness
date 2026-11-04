@@ -113,8 +113,8 @@ Use this project for defensive learning and awareness. Use only fictional or oth
 
 ## 11. Author
 
-**Name:** [Add your full name]  
-**Course/Batch:** [Add your course and batch]  
+**Name:** Majithiya Jal Anandbhai 
+**Course/Batch:** CyberSecurity 
 **Project:** EWB Cybersecurity — Phishing URL Awareness Checker
 
 Before publishing, replace the author placeholders with your own details and review the code so you can explain how it works.
