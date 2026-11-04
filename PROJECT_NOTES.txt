@@ -1,0 +1,6 @@
+Project generated from the EWB Phishing URL Checker Workbook.
+Automated tests: 8 passed.
+Run: python phishing_checker.py
+Test: python -m unittest discover -s tests -v
+Before submission: replace README author placeholders, review/explain the code,
+and verify the public GitHub repository URL after uploading.
